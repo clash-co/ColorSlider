@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .target(
             name: "ColorSlider",
-            path: "Sources",
-            dependencies: []
+            dependencies: [],
+            path: "Sources"
         )
     ]
 )
